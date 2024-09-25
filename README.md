@@ -37,9 +37,11 @@ Highly skilled and innovative web developer with 2 years of experience in creati
 
 ### 📊 Stats
 
-![Au-lex's GitHub stats](https://github-readme-stats.vercel.app/api?username=au-lex&show_icons=true&theme=gruvbox)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=au-lex&show_icons=true&locale=en&theme=react"au-lex" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=au-lex&theme=gruvbox&border_radius=4.5)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=au-lex&theme=react" alt="au-lex" /></p>
+
+
 
 ![Au-lex's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=au-lex&show_icons=true&theme=gruvbox)
 
