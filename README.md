@@ -15,7 +15,7 @@
 
 <br/>
 
-Highly skilled and innovative web developer with 2 years of experience in creating responsive and dynamic web applications. Adept at translating client requirements into robust and user-friendly digital solutions. Proficient in a variety of programming languages, frameworks, and technologies.
+Highly skilled and innovative web developer with  years of experience in creating responsive and dynamic web applications. Adept at translating client requirements into robust and user-friendly digital solutions. Proficient in a variety of programming languages, frameworks, and technologies.
 
  
 ---
